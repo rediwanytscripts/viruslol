@@ -1,1 +1,1 @@
-os.system(lol.py)
+os.system("lol.py")
